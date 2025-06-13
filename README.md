@@ -1,79 +1,77 @@
-<h1 align="center">Hey there! 👋 I'm Nqobile Sibiya (@Nqobza25)</h1>
+<h1 align="center">Hi, I'm Nqobile Sibiya 👋</h1>
+<h3 align="center">@Nqobza25 | Cloud Enthusiast • Tech Simplifier • Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0GqFPR3X4Q1w5h3i/giphy.gif" width="150" alt="wave">
+  <img src="https://media.giphy.com/media/xT0GqFPR3X4Q1w5h3i/giphy.gif" width="150" alt="wave gif">
 </p>
 
 ---
 
-### 🎓 Who am I?
+### 💼 About Me
 
-- 🧩 Cloud Support Associate Intern, soon graduating from IIE Varsity College  
-- 🛠️ Passionate about building **education-focused tools** and **simplifying tech** for everyone  
-- 🔍 Superpower: turning complex systems into easy-to-use solutions 1
+I'm a soon-to-be graduate from IIE Varsity College with a passion for **cloud computing, automation**, and building tools that make life easier. I enjoy simplifying technical concepts and believe that good tech should be both **powerful** and **user-friendly**.
 
----
-
-### 👀 What I’m curious about…
-
-- ☁️ Cloud platforms & infrastructure  
-- 📚 EdTech — blending learning with innovation  
-- 🤖 Automation, APIs & efficient workflows  
-- 🌍 Tech that makes real-world impact
+- 🔧 Skilled in problem solving, troubleshooting, and creating practical workflows  
+- ☁️ Focused on becoming a **Cloud Support Associate**  
+- 🌐 Personal Portfolio: [nqobza25.github.io/Nqobille](https://nqobza25.github.io/Nqobille/)  
 
 ---
 
-### 🌱 Currently leveling up in…
+### 📚 Currently Learning
 
-- ☁️ Azure / AWS fundamentals  
-- 🧠 Python scripting & automation tools  
-- 📊 Monitoring / troubleshooting in cloud environments  
-- 📦 CI/CD processes & collaboration workflows
-
----
-
-### 💞️ Let’s collaborate on…
-
-- 🛠️ EdTech initiatives or open-source tooling  
-- 📈 Automation workflows to streamline developer tasks  
-- 🌱 Intern projects in Cloud or DevOps  
-- 🤝 Anything challenging that pushes us to learn
+- **Azure & AWS** fundamentals  
+- **Python** scripting for cloud & automation  
+- **CI/CD** with GitHub Actions  
+- **Containerization** & Infrastructure as Code (learning Docker & Terraform)
 
 ---
 
-### 📫 Reach me here:
+### 🤝 Let’s Collaborate
 
-- 🌐 LinkedIn: [nqobile‐sibiya](https://www.linkedin.com/in/nqobile-sibiya-530657218) 2  
-- 💌 Email: *your.email@example.com* (or drop me a DM via LinkedIn!)  
-- 💬 GitHub: [Start a discussion in this repo](https://github.com/Nqobza25/Nqobza25/discussions)
+I'm looking for projects and collaborators interested in:
 
----
-
-### 🎯 Fun fact
-
-> *“My superpower is simplifying tech — because powerful tools shouldn’t be complicated.”* 🚀
+- 📚 Building tools for online learning or productivity  
+- 🛠️ Automating common workflows  
+- 🧑‍💻 Open-source DevOps or Cloud practice labs  
+- 🌍 Real-world solutions that make a difference
 
 ---
 
-### 🔧 My Toolbox
+### 🔧 Tech Toolbox
 
-| Domain         | Tools & Tech                          |
-|----------------|----------------------------------------|
-| Cloud          | Azure, AWS, Docker                     |
-| Programming    | Python, Bash, JavaScript               |
-| DevOps         | CI/CD, GitHub Actions, Terraform (learning) |
-| Productivity   | Slack, Trello, Notion, VS Code         |
-
----
-
-> 🧩 *P.S. Check out the highlights below to see what I’m building now…*
+| Domain         | Tools & Tech                              |
+|----------------|--------------------------------------------|
+| Cloud          | Azure, AWS (in progress), Docker (learning) |
+| Programming    | Python, JavaScript, Bash                   |
+| Web & Git      | HTML, CSS, GitHub Pages, GitHub Actions   |
+| Dev Practices  | Troubleshooting, Documentation, Agile     |
 
 ---
 
-#### 🔗 Quick Links
+### 📊 GitHub Stats
 
-- 📊 **GitHub Stats Widget**: show off your coding streak and top languages  
-- 🚀 **Pinned Projects**: spotlight your standout work  
-- 😄 **Visitor Counter**: add a fun touch
+![Nqobza25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nqobza25&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nqobza25&layout=compact&theme=tokyonight)
 
-Let me know what you'd like to add or tweak—I’m happy to help add widgets (like stats), custom sections, or even a sneak peek at live projects!3
+---
+
+### 📫 Connect With Me
+
+- 🌐 [LinkedIn – Nqobile Sibiya](https://www.linkedin.com/in/nqobile-sibiya-530657218)  
+- 💌 Email: *your.email@example.com*  
+- 🗂️ Portfolio: [nqobza25.github.io/Nqobille](https://nqobza25.github.io/Nqobille/)  
+
+---
+
+### ✨ Fun Fact
+
+> *“I simplify tech so it empowers, not overwhelms.”*
+
+---
+
+### ⚡️ Tip
+
+If you’ve made it this far—thank you! 🙏  
+Let’s build, learn, and grow together.
+
+---
